@@ -5,7 +5,7 @@
     "branch": "n7.1"
   },
   {
-    "repository": "LineageOS/kernel_google_seed",
+    "repository": "LineageOS/android_kernel_google_seed",
     "target_path": "kernel/google/seed",
     "branch": "cm-14.1"
   },
